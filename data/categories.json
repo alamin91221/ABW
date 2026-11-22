@@ -34,5 +34,14 @@
     "order": 4,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "cutie01",
+    "name": "Cutie01",
+    "icon": "👧🏻",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/ABW/main/images/categories/cutie01.jpg",
+    "order": 5,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
