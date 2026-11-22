@@ -7,5 +7,14 @@
     "order": 1,
     "visible": true,
     "wallpapersCount": 72
+  },
+  {
+    "id": "cyber-girl",
+    "name": "Cyber Girl",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/ABW/main/images/categories/cyber-girl.jpg",
+    "order": 2,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
