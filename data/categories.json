@@ -25,5 +25,14 @@
     "order": 3,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "cute-girl",
+    "name": "Cute Girl",
+    "icon": "🎀",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/ABW/main/images/categories/cute-girl.jpg",
+    "order": 4,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
