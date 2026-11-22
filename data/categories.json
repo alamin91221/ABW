@@ -16,5 +16,14 @@
     "order": 2,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "white-girl",
+    "name": "White Girl",
+    "icon": "❤︎",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/ABW/main/images/categories/white-girl.jpg",
+    "order": 3,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
